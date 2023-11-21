@@ -1,1 +1,2 @@
-# campusx-mlops
+# CampusX-MLOps
+GitHub Assignment
